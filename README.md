@@ -1,4 +1,4 @@
-# t2-test
+# t2-test (internal)
 Sample app for git-sync end-to-end testing.
 
 ## Usage
